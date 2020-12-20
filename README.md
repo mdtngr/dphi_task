@@ -6,7 +6,7 @@ This repository contains the submission for the task assigned from dphi
 *Create an online nursery marketplace ​API​ where users can signup, login, view, and order plants available in different nurseries.*
 
 
-- Install the requirements from **requirements.txt** file
+- Install the requirements from **nursery/requirements.txt** file
 - Running **python manage.py runserver** will open the landing page of the online nursery
 - A sample user with **credentials as->** *email: user2@gmail.com* | *password: abcdefghijk* has been created for initial testing of login signup
 - The other APIs can be tested directly from the admin panel
